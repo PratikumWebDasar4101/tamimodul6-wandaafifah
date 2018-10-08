@@ -15,6 +15,7 @@ Kebutuhan:
 3. file posting.php
 4. file daftarposting.php
 5. file semuaposting.php
+6. file editprofile.php
 keterangan:
 file yang ada pada data kebutuhan wajib ada, tambahkan file lainya jika dibutuhkan.
 
